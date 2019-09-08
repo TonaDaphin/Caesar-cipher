@@ -12,8 +12,8 @@ This java project was developed to encode and decode phrases input by the user u
 
 * Clone the project into a directory on your PC
 * Run the following commands in your terminal:<br>
-` javac App.java<br>
-  java App `
+` javac App.java`<br>
+ `java App `
 
 ## Link
 
